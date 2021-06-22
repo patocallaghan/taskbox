@@ -1,0 +1,6 @@
+version: 2
+storybook:
+  include: ["Example/Button: Primary"]
+  exclude: []
+snapshot:
+  enable-javascript: true
